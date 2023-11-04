@@ -16,5 +16,5 @@ async function getIP() {
 const startButton = document.querySelector("#ip>button");
 
 startButton.addEventListener("click", (e) => {
-  window.location.href = "postOffice.html";
+  window.location.href = "postoffice.html";
 });
